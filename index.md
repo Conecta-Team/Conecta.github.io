@@ -1,6 +1,6 @@
 # Conecta
 
-Conecta é um aplicativo que visa facilitar o encontro entre mulheres gamers, criando um ambiente seguro e confortável para que elas possam ser elas mesmas sem que sofram machismo por isso.
+Conecta é um aplicativo que visa facilitar o encontro entre mulheres gamers, criando um ambiente seguro e confortável para que elas possam se divertir e integir fortalecendo a comunidade e criando ambientes saudáveis.
 
 ## Política Privacidade
 
@@ -39,18 +39,18 @@ Ao acessar ao aplicativo Conecta, concorda em cumprir estes termos de serviço, 
 
 É concedida permissão para baixar temporariamente uma cópia dos materiais (informações ou software) no site Conecta , apenas para visualização transitória pessoal e não comercial. Esta é a concessão de uma licença, não uma transferência de título e, sob esta licença, você não pode: 
 
-  - modificar ou copiar os materiais; 
-  - usar os materiais para qualquer finalidade comercial ou para exibição pública (comercial ou não comercial); 
-  - tentar descompilar ou fazer engenharia reversa de qualquer software contido no site Conecta; 
-  - remover quaisquer direitos autorais ou outras notações de propriedade dos materiais; ou 
-  - transferir os materiais para outra pessoa ou ‘espelhe’ os materiais em qualquer outro servidor. 
+  1. modificar ou copiar os materiais; 
+  2. usar os materiais para qualquer finalidade comercial ou para exibição pública (comercial ou não comercial); 
+  3. tentar descompilar ou fazer engenharia reversa de qualquer software contido no site Conecta; 
+  4. remover quaisquer direitos autorais ou outras notações de propriedade dos materiais; ou 
+  5. transferir os materiais para outra pessoa ou ‘espelhe’ os materiais em qualquer outro servidor. 
 
 Esta licença será automaticamente rescindida se você violar alguma dessas restrições e poderá ser rescindida por Conecta a qualquer momento. Ao encerrar a visualização desses materiais ou após o término desta licença, você deve apagar todos os materiais baixados em sua posse, seja em formato eletrónico ou impresso.
 
 #### 3. Isenção de responsabilidade 
 
-- Os materiais no site da Conecta são fornecidos ‘como estão’. Conecta não oferece garantias, expressas ou implícitas, e, por este meio, isenta e nega todas as outras garantias, incluindo, sem limitação, garantias implícitas ou condições de comercialização, adequação a um fim específico ou não violação de propriedade intelectual ou outra violação de direitos. 
-- Além disso, o Conecta não garante ou faz qualquer representação relativa à precisão, aos resultados prováveis ou à confiabilidade do uso dos materiais em seu site ou de outra forma relacionado a esses materiais ou em sites vinculados a este site.
+  1. Os materiais no site da Conecta são fornecidos ‘como estão’. Conecta não oferece garantias, expressas ou implícitas, e, por este meio, isenta e nega todas as outras garantias, incluindo, sem limitação, garantias implícitas ou condições de comercialização, adequação a um fim específico ou não violação de propriedade intelectual ou outra violação de direitos. 
+  2. Além disso, o Conecta não garante ou faz qualquer representação relativa à precisão, aos resultados prováveis ou à confiabilidade do uso dos materiais em seu site ou de outra forma relacionado a esses materiais ou em sites vinculados a este site.
 
 
 #### 4. Limitações 
