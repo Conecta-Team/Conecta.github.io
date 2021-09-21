@@ -39,11 +39,11 @@ Ao acessar ao aplicativo Conecta, concorda em cumprir estes termos de serviço, 
 
 É concedida permissão para baixar temporariamente uma cópia dos materiais (informações ou software) no site Conecta , apenas para visualização transitória pessoal e não comercial. Esta é a concessão de uma licença, não uma transferência de título e, sob esta licença, você não pode: 
 
-  1. modificar ou copiar os materiais; 
-  2. usar os materiais para qualquer finalidade comercial ou para exibição pública (comercial ou não comercial); 
-  3. tentar descompilar ou fazer engenharia reversa de qualquer software contido no site Conecta; 
-  4. remover quaisquer direitos autorais ou outras notações de propriedade dos materiais; ou 
-  5. transferir os materiais para outra pessoa ou ‘espelhe’ os materiais em qualquer outro servidor. 
+###### 1. modificar ou copiar os materiais; 
+###### 2. usar os materiais para qualquer finalidade comercial ou para exibição pública (comercial ou não comercial); 
+###### 3. tentar descompilar ou fazer engenharia reversa de qualquer software contido no site Conecta; 
+###### 4. remover quaisquer direitos autorais ou outras notações de propriedade dos materiais; ou 
+###### 5. transferir os materiais para outra pessoa ou ‘espelhe’ os materiais em qualquer outro servidor. 
 
 Esta licença será automaticamente rescindida se você violar alguma dessas restrições e poderá ser rescindida por Conecta a qualquer momento. Ao encerrar a visualização desses materiais ou após o término desta licença, você deve apagar todos os materiais baixados em sua posse, seja em formato eletrónico ou impresso.
 
